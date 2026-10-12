@@ -105,18 +105,26 @@ ChatGPT-előfizetés (Plus vagy céges Business) és a Codex app, belépve.
 **Kész, ha** (új szálban, a zárásnál): meg tudsz nyitni egy lapot a Chrome-ban (pl.
 https://strt.hu), és ki tudod olvasni a címét.
 
-## 3. Gmail + Google Drive
+## 3. Gmail + Google Drive (+ Naptár, Névjegyek)
 
-1. A Codex appban: **Plugins** → **Gmail** → Install, majd **Google Drive** → Install.
-   A résztvevő a Google-fiókjával engedélyez.
-2. Ha a Google azt írja, hogy az alkalmazás le van tiltva, az a résztvevő céges Google
+**Valószínűleg már kész.** Aki Google-fiókkal regisztrált a ChatGPT-re, annál a ChatGPT
+automatikusan beköti a Google Drive-ot, a Gmailt, a Google Naptárt és a Google Névjegyeket.
+
+1. Kérdezd meg, Google-fiókkal regisztrált-e a ChatGPT-re, és ugyanazzal a Google-fiókkal,
+   amit a képzésen használni akar.
+2. Nézesse meg vele: Codex app → **Plugins**. Ott van-e telepítve a **Gmail** és a
+   **Google Drive** (és a Google Calendar)? Ami nincs ott: Install, és a Google-fiókjával
+   engedélyez. Ha mind ott van, nincs teendő.
+3. Ha a Google azt írja, hogy az alkalmazás le van tiltva, az a résztvevő céges Google
    Workspace-adminjának tiltása. Ezt jelöld „Elakadt”-nak, és menj tovább.
-3. Céges (Business) fióknál előfordulhat, hogy a plugin már telepítve van. Akkor csak a
-   Google-fiókot kell összekötni.
-4. Írd a naplóba: `3 ellenőrzésre vár`.
+4. Mondd el neki egy mondatban: ezzel a ChatGPT/Codex hozzáfér a leveleihez, fájljaihoz,
+   naptárához és névjegyeihez. A ChatGPT beállításaiban (Settings → Apps / Plugins)
+   bármikor leválaszthatja őket.
+5. Írd a naplóba: `3 ellenőrzésre vár`.
 
 **Kész, ha** (új szálban, a zárásnál): ki tudod listázni a legutóbbi 3 levél tárgyát és
-3 Drive-fájl nevét. A tartalmukat ne olvasd fel.
+3 Drive-fájl nevét. A tartalmukat ne olvasd fel. Ha a Naptár is be van kötve, a holnapi
+első eseményének címét is.
 
 ## 4. Fejlesztői alapeszközök: Xcode Command Line Tools → Homebrew → git, gh
 

@@ -27,7 +27,7 @@ nyugodtan engedélyezd. Előtte mindig elmondja, mit csinál.
 |---|---|---|
 | 1 | Basecamp (meghívó + parancssoros eszköz) | Codex telepít, te belépsz |
 | 2 | Böngészővezérlés (Codex Chrome-bővítmény) | te kattintasz, Codex ellenőriz |
-| 3 | Gmail + Google Drive | te engedélyezel, Codex ellenőriz |
+| 3 | Gmail + Google Drive (+ Naptár) | Google-os regisztrációnál már kész, Codex ellenőriz |
 | 4 | Homebrew, git, gh | a Mac-jelszót te írod be, a többit Codex |
 | 5 | GitHub-fiók + belépés | a fiókot te hozod létre, Codex diktál |
 | 6 | Coolify (tanfolyami gyakorlókörnyezet) | Codex |
